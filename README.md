@@ -27,6 +27,8 @@ This project explores the design and simulation of a satellite attitude control 
 
 
 **🎯 Objectives**
+
+
 Model Satellite Attitude Dynamics
 
 
