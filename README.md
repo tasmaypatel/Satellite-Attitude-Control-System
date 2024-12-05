@@ -103,7 +103,7 @@ bash
 Copy code
 
 
-git clone https://github.com/your-repo/satellite-attitude-control.git  
+git clone https://github.com/tasmaypatel/Satellite-Attitude-Control-System 
 
 
 Install dependencies:
