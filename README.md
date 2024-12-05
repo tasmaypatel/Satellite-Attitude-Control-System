@@ -1,1 +1,1 @@
-# Satellite-Control-System
+# Satellite-Attitude-Control-System
